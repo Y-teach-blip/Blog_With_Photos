@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: chocolate;
+    font-family: 'Sansita Swashed', cursive;
+    color: black;
+}
+div{
+    margin-top: 15px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    }
+.style-section{
+    margin-right: 25px;
+    margin-left:  25px;
+    background-color: white;
+}
+h1{
+     font-family: 'Sansita Swashed', cursive;
+}
